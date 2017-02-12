@@ -1,0 +1,14 @@
+c:\users\reichyga\documents\visual studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash Control Panel.vbprojResolveAssemblyReference.cache
+c:\users\reichyga\documents\visual studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash_Control_Panel.Form1.resources
+c:\users\reichyga\documents\visual studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash_Control_Panel.Resources.resources
+c:\users\reichyga\documents\visual studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash Control Panel.vbproj.GenerateResource.Cache
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\bin\Debug\Kdash Core.exe.config
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\bin\Debug\Kdash Core.exe
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\bin\Debug\Kdash Core.pdb
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\bin\Debug\Kdash Core.xml
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash Core.exe
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash Core.xml
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash Core.pdb
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\bin\Debug\en-GB\Kdash Core.resources.dll
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\Kdash_Control_Panel.Form1.en-GB.resources
+C:\Users\Reichyga\Documents\Visual Studio 2015\Projects\Kdash Control Panel\Kdash Control Panel\obj\Debug\en-GB\Kdash Core.resources.dll
